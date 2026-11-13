@@ -6,9 +6,9 @@
 
 ## En bref
 
-- 15 ans dans la tech, dont 8 chez iDealwine : CTO de 2018 à 2024, équipe d'une dizaine de personnes, refonte complète de la plateforme e-commerce.
+- 15 ans dans la tech, dont 8 chez iDealwine (Ex-CTO) de 2016 à 2024, équipe d'une dizaine de personnes, refonte complète de la plateforme e-commerce.
 - J'interviens aux côtés des dirigeants de PME en temps partagé, sur la durée : le rôle d'un directeur technique, sans avoir à le recruter.
-- Ingénieur ESME, toujours les mains dans le code : Next.js, React, PHP, WordPress/WooCommerce, MySQL, API REST.
+- Ingénieur ESME, toujours les mains dans le code : Next.js, React, PHP, WordPress/WooCommerce, MySQL, API REST, Terraform. 
 
 ## Quand les dirigeants m'appellent
 
